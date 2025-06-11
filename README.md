@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Python / Django / DRF / PostgreSQL / Docker / Celery / Redis</b><br>
-  Создаю REST API, автоматизирую задачи, подключаю backend к frontend, пишу тесты и люблю чистую архитектуру.
+  Умею строить API, подключать frontend, работать с очередями задач и выстраивать грамотную архитектуру backend-приложений.
 </p>
 
 ---
